@@ -2,7 +2,7 @@
 This program solves binairos (binary Sudokus), which are provided in the form of text (.txt) files.
 
 # Developers
-This project was developed by [@GabrielC-34](https://github.com/GabrielC-34).
+This project was developed by [@gabcomby](https://github.com/gabcomby).
 
 # Technologies and libraries
 This program uses no additional libraries.
